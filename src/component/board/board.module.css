@@ -1,0 +1,6 @@
+.board_form{
+    grid-column: 2;
+    grid-row: 2;
+    justify-self:start;
+    align-self:start;
+}

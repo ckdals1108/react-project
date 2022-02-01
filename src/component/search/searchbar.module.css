@@ -1,0 +1,25 @@
+.searchbar_form{
+    grid-column: 2;
+    grid-row : 1;
+    justify-self:center;
+    align-self:center;
+}
+
+#textbox{
+    width:40em;
+    height:6.5em;
+    resize:none;
+    vertical-align: middle;
+}
+
+#password{
+    width:10em;
+    height:1.5em;
+    vertical-align: middle;
+}
+
+#button{
+    width:5em;
+    height:2em;
+    vertical-align: middle;
+}
